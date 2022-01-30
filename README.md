@@ -3,12 +3,11 @@
 <h1 align="center"> 📸 Upload images  </h1>
 
 <p align="center">
-   <img alt="Social" src="https://img.shields.io/github/followers/Joseane-Guedes?style=social" />
-  <img alt="issues" src="https://img.shields.io/github/issues/Joseane-Guedes/Ignite-challenge08" />
-  <img alt="forks" src="https://img.shields.io/github/forks/Joseane-Guedes/Ignite-challenge08"/>
-  <img alt="Stars" src="https://img.shields.io/github/stars/Joseane-Guedes/Ignite-challenge08" />
-  <img alt="Twitter" src="https://img.shields.io/twitter/follow/JoseaneGuedes8?style=social">
-  <img alt="Languages" src="https://img.shields.io/github/languages/count/Joseane-Guedes/Ignite-challenge08">
+   <img alt="Social" src="https://img.shields.io/github/followers/LeoTexx?style=social" />
+  <img alt="issues" src="https://img.shields.io/github/issues/LeoTexx/upFi" />
+  <img alt="forks" src="https://img.shields.io/github/forks/LeoTexx/upFi"/>
+  <img alt="Stars" src="https://img.shields.io/github/stars/LeoTexx/upFi" />
+  <img alt="Languages" src="https://img.shields.io/github/languages/count/LeoTexx/upFi">
 </p>
 
 <br>
